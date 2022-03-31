@@ -4,7 +4,7 @@ public class Demo {
 
 	private String firstName = "Madan";
 	private String lastName = "Sinha";
-	private String emailId = "madan.sinha@brightlysoftware.com";
+	private String emailId = "madan.sinha@brightlysoftware.co.in";
 	private String gender="Male";
 	private String instance;
 	private String envValue;
