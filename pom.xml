@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>kubernetes_demo</artifactId>
+	<artifactId>openshift-cicd_demo</artifactId>
 	<version>1.0</version>
 	<name>openshift-cicd_demo</name>
 	<description>Demo project for Spring Boot</description>
